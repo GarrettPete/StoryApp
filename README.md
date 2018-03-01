@@ -4,4 +4,4 @@ In this app, we wish to achieve a goal of making it a sotry mode app, in which y
 
 _
 
-![StoryApp](https://github.com/GarrettPete/StoryApp/blob/master/App.png)
+![StoryApp](https://github.com/GarrettPete/StoryApp/blob/master/StoryApp.png)
